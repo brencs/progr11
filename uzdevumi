@@ -1,0 +1,53 @@
+#1. apgreizts saraksts
+
+#list = [1, 2, 3, 4]
+#list.reverse()
+#print(list)
+#print(" saraksta elemntu skaits ir:", len(list))
+
+#2. kuba
+
+#x = int(input("Ievadiet skaitli:"))
+#for i in range (0, x+1):
+#    print(x*x*x)
+
+#3. kvadratsakne
+
+#x = int(input("Ievadiet skaitli:"))
+#for i in range (1, x+1):
+#    import math
+#    print("pašreizejais skaitlis ir:", x, "un skaitla kvadratsakne ir:", (math.sqrt(x)))
+
+
+#4. uzd 
+
+
+#num = 1234567
+#count = 0
+#while num != 0:
+#    num = num // 10
+#    count = count + 1
+#print("Ciparu skaits skaitli ir:", count)
+
+#5. definet
+
+
+#def calculation(a, b):
+#     return(a + b)
+#res = calculation(40, 10)
+#print("Rezultats ir :", res)
+
+#6.
+
+
+#def calculation(a, b):
+#     return(a + b, a - b)
+#res = calculation(40, 10)
+#print("rezultats ir: ", res)
+
+#7.
+
+
+#a = int(input("ievadiet 1. rinka linijas radiusu: "))
+#b = int(input("ievadiet 2. rinka linijas radiusu: "))
+#print("1. rinka linijas laukums:", 3.14 * a * a,"2. rinka linijas laukums:", 3.14 * b * b)
